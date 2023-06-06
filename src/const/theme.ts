@@ -90,6 +90,7 @@ ThemeMap.set('swift', new Theme('#000000', '#000000', '#f7f7f7', '#000000', 0, '
 ThemeMap.set('synthwave', new Theme('#e2e9ec', '#e5289e', '#2b213a', '#000000', 0, '#ef8539', '#e2e9ec'));
 ThemeMap.set('tokyonight', new Theme('#70a5fd', '#38bdae', '#1a1b27', '#1a1b27', 1, '#bf91f3', '#bf91f3'));
 ThemeMap.set('transparent', new Theme('#006AFF', '#417E87', '#00000000', '#000000', 0, '#0579C3', '#006AFF'));
+ThemeMap.set('USCGamecockSandstorm', new Theme('#73000a', '#73000a', '#ffffff', 1, '#73000a', '#73000a', '#73000a'))
 ThemeMap.set('vision_friendly_dark', new Theme('#ffb000', '#ffffff', '#000000', '#000000', 0, '#785ef0', '#ffb000'));
 ThemeMap.set('vue', new Theme('#41b883', '#000000', '#ffffff', '#e4e2e2', 1, '#41b883', '#41b883'));
 ThemeMap.set('yeblu', new Theme('#ffff00', '#ffffff', '#002046', '#000000', 0, '#ffff00', '#ffff00'));
